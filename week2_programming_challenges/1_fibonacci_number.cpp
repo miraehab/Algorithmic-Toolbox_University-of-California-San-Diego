@@ -24,9 +24,9 @@ int fibonacci_naive(int n) {
     return fibonacci_naive(n - 1) + fibonacci_naive(n - 2);
 }
 
-int fibonacci_fast(int n) {
+long long fibonacci_fast(long long n) {
     // write your code here
-    vector<int> nums(n+1);
+    vector<long long> nums(n+1);
     nums[0] = 0;
     nums[1] = 1;
     for(int i = 2; i<=n; ++i){
