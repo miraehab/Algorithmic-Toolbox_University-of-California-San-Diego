@@ -15,4 +15,6 @@ This repository contains my solutions to the programming challenges in the Algor
 1. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week2_programming_challenges/1_fibonacci_number.cpp">Fibonacci_number</a><br>
 2. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week2_programming_challenges/2_last_digit_of_fibonacci_number.cpp">Last digit of fibonacci number</a><br>
 3. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week2_programming_challenges/3_greatest_common_divisor.cpp">Greatest common divisor</a><br>
-4. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week2_programming_challenges/4_least_common_multiple.cpp">Least_common_multiple</a><br>
+4. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week2_programming_challenges/4_least_common_multiple.cpp">Least common multiple</a><br>
+5. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week2_programming_challenges/5_fibonacci_number_again.cpp">Fibonacci number again</a><br>
+6. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week2_programming_challenges/6_last_digit_of_the_sum_of_fibonacci_numbers.cpp">Last digit of the sum of fibonacci numbers</a><br>
