@@ -18,3 +18,9 @@ This repository contains my solutions to the programming challenges in the Algor
 4. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week2_programming_challenges/4_least_common_multiple.cpp">Least common multiple</a><br>
 5. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week2_programming_challenges/5_fibonacci_number_again.cpp">Fibonacci number again</a><br>
 6. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week2_programming_challenges/6_last_digit_of_the_sum_of_fibonacci_numbers.cpp">Last digit of the sum of fibonacci numbers</a><br>
+
+<h3>Week3 programming challenges: <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week3_greedy_algorithms/week3_greedy_algorithms.pdf">PDF</a></h3>
+
+1. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week3_greedy_algorithms/1_money_change.cpp">Money change</a><br>
+2. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week3_greedy_algorithms/2_maximum_value_of_the_loot.cpp">Maximum value of the loot</a><br>
+3. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week3_greedy_algorithms/3_car_fueling.exe">Car fueling</a><br>
