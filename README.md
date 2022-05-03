@@ -23,4 +23,11 @@ This repository contains my solutions to the programming challenges in the Algor
 
 1. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week3_greedy_algorithms/1_money_change.cpp">Money change</a><br>
 2. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week3_greedy_algorithms/2_maximum_value_of_the_loot.cpp">Maximum value of the loot</a><br>
-3. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week3_greedy_algorithms/3_car_fueling.exe">Car fueling</a><br>
+3. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week3_greedy_algorithms/3_car_fueling.cpp">Car fueling</a><br>
+
+
+<h3>Week4 programming challenges: <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week4_divide_and_conquer/week4_divide_and_conquer.pdf">PDF</a></h3>
+
+1. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week4_divide_and_conquer/1_binary_search.cpp">Binary search</a><br>
+2. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week4_divide_and_conquer/2_binary_search_with_duplicates.cpp">Binary search with duplicates</a><br>
+3. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week4_divide_and_conquer/3_majority_element.cpp">Majority element</a><br>
