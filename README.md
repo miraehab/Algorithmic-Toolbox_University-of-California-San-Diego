@@ -44,3 +44,5 @@ This repository contains my solutions to the programming challenges in the Algor
 1. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week6_dynamic_programming2/1_maximum_amount_of_gold.cpp">Maximum amount of gold</a><br>
 2. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week6_dynamic_programming2/2_partitioning_souvenirs.cpp">Partitioning souvenirs</a><br>
 3. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression.cpp">Maximum value of an arithmetic expression</a><br>
+
+![image](https://user-images.githubusercontent.com/74511706/166524093-1ddb3a89-d015-49ec-a5e8-77a367e5b387.png)
