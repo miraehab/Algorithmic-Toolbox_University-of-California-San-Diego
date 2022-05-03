@@ -31,3 +31,10 @@ This repository contains my solutions to the programming challenges in the Algor
 1. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week4_divide_and_conquer/1_binary_search.cpp">Binary search</a><br>
 2. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week4_divide_and_conquer/2_binary_search_with_duplicates.cpp">Binary search with duplicates</a><br>
 3. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week4_divide_and_conquer/3_majority_element.cpp">Majority element</a><br>
+
+<h3>Week5 programming challenges: <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week5_dynamic_programming1/week5_dynamic_programming1.pdf">PDF</a></h3>
+
+1. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week5_dynamic_programming1/1_money_change_again.cpp">Money change again</a><br>
+2. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week5_dynamic_programming1/2_primitive_calculator.cpp">Primitive calculator</a><br>
+3. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week5_dynamic_programming1/3_edit_distance.cpp">Edit distance</a><br>
+4. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences.cpp">Longest common subsequence of two sequences</a><br>
