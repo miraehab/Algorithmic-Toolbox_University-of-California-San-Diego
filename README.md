@@ -38,3 +38,9 @@ This repository contains my solutions to the programming challenges in the Algor
 2. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week5_dynamic_programming1/2_primitive_calculator.cpp">Primitive calculator</a><br>
 3. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week5_dynamic_programming1/3_edit_distance.cpp">Edit distance</a><br>
 4. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences.cpp">Longest common subsequence of two sequences</a><br>
+
+<h3>Week6 programming challenges: <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week6_dynamic_programming2/week6_dynamic_programming2.pdf">PDF</a></h3>
+
+1. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week6_dynamic_programming2/1_maximum_amount_of_gold.cpp">Maximum amount of gold</a><br>
+2. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week6_dynamic_programming2/2_partitioning_souvenirs.cpp">Partitioning souvenirs</a><br>
+3. <a href="https://github.com/miraehab/Algorithmic-Toolbox_University-of-California-San-Diego/blob/main/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression.cpp">Maximum value of an arithmetic expression</a><br>
